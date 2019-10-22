@@ -1,9 +1,4 @@
-/*
-  Theme Name: Vlava
-  Theme URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/
-  Author: BootstrapMade.com
-  Author URL: https://bootstrapmade.com
-*/
+
 
 /* === icon component === */
 @import url('icon-component.css');
@@ -329,11 +324,11 @@ section.section {
 ============================= */
 
 #parallax1{
-	background-image: url(../img/parallax/img1.jpg);
+	background-image: url(../img/parallax/img1.jpeg);
 }
 
 #testimonials{
-	background-image: url(../img/parallax/img3.jpg);
+	background-image: url(../img/parallax/1920.jpg);
 }
 /*===========================
   --- Header & menu ----
